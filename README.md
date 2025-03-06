@@ -4,9 +4,7 @@
 Dự án này sử dụng mô hình RFM để phân tích và phân loại khách hàng dựa trên hành vi mua sắm. Thông qua thuật toán K-Means và các phương pháp trực quan hóa, hệ thống giúp doanh nghiệp xác định nhóm khách hàng tiềm năng và đề xuất chiến lược tiếp thị phù hợp.
 
 ## Cài đặt
-Trước khi chạy dự án, hãy cài đặt các thư viện cần thiết bằng lệnh sau:
-```sh
-pip install pandas matplotlib seaborn scikit-learn
+Trước khi chạy dự án, hãy cài đặt các thư viện cần thiết bằng lệnh sau: pip install pandas matplotlib seaborn scikit-learn
 
 ## Hướng dẫn sử dụng
 1. **Chuẩn bị dữ liệu**: Đảm bảo có file dữ liệu CSV với các thông tin cần thiết như mã khách hàng, ngày giao dịch, số lần mua hàng, tổng chi tiêu, v.v.
